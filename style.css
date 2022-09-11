@@ -1,0 +1,38 @@
+.bisillah{
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:#e8effaff;
+    padding: 10px 0px 3px 0px;
+    border-bottom: 2px solid #dce7f7 ;
+    letter-spacing: 2.5px;
+    text-transform: capitalize;
+    text-shadow: 3px;
+
+}
+.container{
+    background-color: #ebf2ff;
+    
+}
+
+.h01{
+    font-weight: bold;
+    font-size: 25px;
+    color: #484c52;
+    margin-left: 70px;
+    padding-bottom: 10px;
+    
+    letter-spacing: 2.5px;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header01{
+    display: inline-block;
+}
+.header01 img{
+    width: 30px;
+    height: 30px;
+   
+}
