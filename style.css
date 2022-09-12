@@ -1,62 +1,114 @@
-    .bisillah{
-        color: black;
-        font-size: 15px;
-        font-weight: 700;
-        font-family: Arial, Helvetica, sans-serif;
-        text-align: center;
-        background-color:#e8effaff;
-        padding: 10px 0px 3px 0px;
-        border-bottom: 2px solid #dce7f7 ;
-        letter-spacing: 2.5px;
-        text-transform: capitalize;
-        text-shadow: 3px;
+        body{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .bisillah{
+                color: black;
+                font-size: 15px;
+                font-weight: 700;
+                font-family: Arial, Helvetica, sans-serif;
+                text-align: center;
+                margin-top: 10px;
+            
+                padding: 10px 0px 0px 0px;
+                border-bottom: 2px solid #dce7f7 ;
+                letter-spacing: 2.5px;
+                text-transform: capitalize;
+                text-shadow: 3px;
 
-    }
+            }
 
-    .first-half{
-        width: 40%;
-        float: left;
-        height: 300px;
-    }
-    .image-profile{
-        width: 50%;
-        float: right;
-        height: 300px;
-    }
-    .image-profile img{
-    background-image: url(pngtree-abstract-modern-background-circle-with-geometric-shape-png-image_2256512-removebg-preview.png);
+            .first-half{
+                width: 40%;
+                float: left;
+                height: 300px;
+                margin-left: 10%;
+            }
+            .image-profile{
+                width: 50%;
+                float: right;
+                height: 300px;
+            }
+            .image-profile img{
+            background-image: url(pngtree-abstract-modern-background-circle-with-geometric-shape-png-image_2256512-removebg-preview.png);
 
-    border-radius: 30%;
-    border: 0.1px solid white;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin: auto;
+            border-radius: 30%;
+            border: 0px solid white;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            width: auto;
+            height: 400px;
+            margin-left: 20%;
+            margin-top: 10%;
+        
 
-    }
-    .first-half h1::first-letter{
-        font-size: 40px;
-        color: aqua;
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: 600;
+            }
+            .first-half h1::first-letter{
+                font-size: 40px;
+                color: aqua;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: 600;
 
-    }
-    .first-half{
-        margin-top: 130px;
-    }
+            }
+            .first-half{
+                margin-top: 160px;
+            }
 
-    .first-half h1{
-        color: #1FAA59;
-        font-family: 'Times New Roman', Times, serif;
-        text-transform: capitalize;
-    }
-    .first-half h3{
-        color: #02B290;
-        letter-spacing: 2px;
-        font-family: 'Times New Roman', Times, serif;
-    }
-    .first-half p{
-        margin-top: 15px;
-        color: #EDC126;
-        font-family: Arial, Helvetica, sans-serif;
-    }
+            .first-half h1{
+                color: #1FAA59;
+                font-family: 'Times New Roman', Times, serif;
+                text-transform: capitalize;
+            }
+            .first-half h3{
+                color: #02B290;
+                letter-spacing: 2px;
+                font-family: 'Times New Roman', Times, serif;
+            }
+            .first-half p{
+                margin-top: 15px;
+                color: #03f6e6;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                margin: 20px 0px 10px 0px ;
+            }
+            .section-01{
+                height: 580px;
+                border: 0px solid red;
+                background-image: url(513-5133914_png-splash-multi-color-transparent-png.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+            
+            }
+            .nam01{
+                color: #d601dd;
+                font-size: 20px;
+            }
+
+            .button1{
+                color: #EDC126;
+                padding: 3px 25px 5px 25px ;
+                font-size: 20px;
+                background: linear-gradient(to left, #1C8D73,#02B290);
+                border: #02B290;
+                border-radius: 10px;
+                text-transform: capitalize;
+            }
+            .button1 a{
+                text-decoration: none;
+                color: #dce7f7;
+            }
+            .button1:hover{
+                color: #fff;
+                background: #DDD101;
+                box-shadow: 0 0 10px #DDD101, 0 0 40px #DDD101, 0 0 80px #DDD101;
+                border-radius: 20px;
+                transition: all 0.2s;
+            }
+
+
+            /* section 02 er jonno css code */
+            
+            
