@@ -106,9 +106,68 @@
                 box-shadow: 0 0 10px #DDD101, 0 0 40px #DDD101, 0 0 80px #DDD101;
                 border-radius: 20px;
                 transition: all 0.2s;
-            }
+            } 
 
 
             /* section 02 er jonno css code */
             
-            
+            .section02{
+                height: 600px;
+                width: 100%;
+                border: 0px solid red;
+                background: linear-gradient(#ecf0f1,#bdc3c7);
+                
+
+            }
+            .first-01-haf{
+                height: 350px;
+                width: 40%;
+                border: 3px solid rgb(237, 244, 237);
+                margin: 10% 5%;
+                float: left;
+                box-shadow:20px 20px 50px 10px white;
+                background: #FFF;
+            }
+            .circle01{
+                height: 150px;
+                width: 150px;
+                border-radius: 50%;
+                border: 1px dotted #95a5a6;
+                margin: 6% 37%;
+                background: #95a5a6;
+                
+            }
+            .circle01 img{
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                margin-right: 1px;
+            }
+
+
+
+            .second-01-haf{
+                height: 350px;
+                width: 40%;
+                border: 3px solid rgb(246, 249, 246);
+                margin: 10% 5%;
+                float: right;
+
+                box-shadow:20px 20px 50px 10px white;
+                background: #FFF;
+            }
+            .circle02{
+                height: 150px;
+                width: 150px;
+                border-radius: 50%;
+                border: 1px dotted #95a5a6;
+                margin: 6% 37%;
+                background: #95a5a6;
+                
+            }
+            .circle02 img{
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                margin-right: 1px;
+            }
